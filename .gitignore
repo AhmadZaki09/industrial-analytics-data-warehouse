@@ -1,0 +1,11 @@
+```gitignore
+.venv/
+__pycache__/
+*.py[cod]
+.env
+*.log
+
+data/raw/*.csv
+data/corrupted/*.csv
+data/incremental/*.csv
+```
